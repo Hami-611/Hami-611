@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hamika.redrowthu@gmail.com**
 
-- 📄 Looking for full-time position https://drive.google.com/file/d/1wut79nBXqgGXnskZXvMhPk_6mhAtBTEM/view?usp=sharing
+- 📄 Looking for full-time position https://drive.google.com/file/d/12yur48YlfW7H4kKLbazk1ZknCLEbxcs-/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
