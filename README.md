@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamika Redrowthu</h1>
-<h3 align="center">A passionate Python Full Stack Developer with a strong background in building scalable and efficient applications. I graduated with a Bachelor of Technology in Aeronautics and have utilized my gap year to sharpen my skills in software development and engineering.</h3>
+<h3 align="center">A passionate Python Full Stack Developer with a strong background in building scalable and efficient applications. I graduated with a Bachelor of Technology in Aeronautics and sharpen my skills in software development and engineering.</h3>
 
 - 🔭 I’m currently working on **Python Full Stack Projects**
 
