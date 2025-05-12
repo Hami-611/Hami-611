@@ -43,8 +43,3 @@ A passionate Full Stack Developer with expertise in Python and JavaScript, build
 </p>
 
 ---
-
-<h3>📊 GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hami-611&theme=default" alt="GitHub Streak" />
-</p>
