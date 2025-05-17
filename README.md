@@ -11,7 +11,7 @@ A passionate Full Stack Developer with expertise in Python and JavaScript, build
 - 👯 Looking to collaborate on **real-world, impactful Python-based projects**
 - 💬 Ask me about **Django, REST APIs, ReactJS, MySQL, and AWS**
 - 📫 Reach me at **hamika.redrowthu@gmail.com**
-- 📄 My [Portfolio](hamikaredrowthu.netlify.app)
+- 📄 My [Portfolio](https://hamikaredrowthu.netlify.app/)
 
 ---
 
